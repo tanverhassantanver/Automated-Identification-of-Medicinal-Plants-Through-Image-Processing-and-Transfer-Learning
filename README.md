@@ -31,6 +31,9 @@ This project aims to develop an AI-based system for identifying and classifying 
 - Botanical research.
 - Plant conservation.
 
+## App link to download: 
+https://drive.google.com/file/d/1CMWOptWepf_K4_EMdnvYWtGjviSuUOTe/view?usp=sharing
+
 ## 👨‍💻 Author
 **Tanver Hassan Tanver**
 
